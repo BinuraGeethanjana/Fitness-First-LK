@@ -1,0 +1,1 @@
+A Python-based console application that manages gym member profiles, calculates BMI, and delivers personalized fitness and diet recommendations based on body mass index and gender. The system supports creating, updating, viewing, and deleting member records through a menu-driven interface.
